@@ -1,4 +1,4 @@
-all
+all:
   $gcc example.c -o example
 
 clean:
